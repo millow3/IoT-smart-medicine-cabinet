@@ -35,10 +35,10 @@ This folder contains the project report, system overview diagram, schematic diag
 | File | Description |
 |---|---|
 | `Report.Assignment.2.IoT.pdf` | Full assignment report |
-| `system-overview.png` | Overall system architecture |
-| `device-a-schematic.png` | Device A wiring diagram |
-| `device-b-schematic.png` | Device B wiring diagram |
-| `dashboard.png` | Web-based Firebase monitoring dashboard |
+| `System_Overview png` | Overall system architecture |
+| `DeviceA_Schematic png` | Device A wiring diagram |
+| `DeviceB_Schematic png` | Device B wiring diagram |
+| `dashboard png` | Web-based Firebase monitoring dashboard |
 
 
 This folder contains the project report, system overview, schematic diagrams, dashboard screenshots, and other supporting documentation.
